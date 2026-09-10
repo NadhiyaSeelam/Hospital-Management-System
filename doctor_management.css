@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(135deg, #fff3e0, #fdebd0);
+}
+
+form {
+  border-left: 6px solid #f39c12;
+  box-shadow: 0 4px 12px rgba(243, 156, 18, 0.3);
+}
+
+button {
+  background: linear-gradient(135deg, #f39c12, #d35400);
+}
+button:hover {
+  background: #b9770e;
+}
